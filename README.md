@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./banner.jpg" width="100%">
+  <img src="./imatge.jpg" width="100%">
 </div>
 
 about me
