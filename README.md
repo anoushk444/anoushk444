@@ -1,12 +1,11 @@
-## Hi there 👋
+## Hi there I'm Anoushka👋
 
 
 <div align="center">
-  <img src="./imatge.jpg" width="100%">
+  <img src="./banner.jpg" width="100%">
 </div>
 
-# Hi, I'm Anoushka! 
-
+about me
 - 🌱 I’m currently learning DAWe
 - 📫 How to reach me: anoushka.sharma.7ea@itb.cat
 - 😄 Pronouns: she/her
