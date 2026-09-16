@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="anoushk444/imatge.gif" height="150" alt="trophy graph"  />
+  <img src="anoushk444/imatge.gif" height="150">
 </div>
 
 
