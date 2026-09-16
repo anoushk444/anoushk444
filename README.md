@@ -2,8 +2,9 @@
 
 
 <div align="center">
-  <img src="./imatge.gif" width="100%">
+  <img src="anoushk444/imatge.gif" height="150" alt="trophy graph"  />
 </div>
+
 
 about me
 - 🌱 I’m currently learning DAWe
