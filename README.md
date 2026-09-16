@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="anoushk444/imatge.gif" height="150">
+  <img src="anoushk444/imatge.gif">
 </div>
 
 
