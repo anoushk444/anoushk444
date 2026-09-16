@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./img.jpg" width="100%">
+  <img src="./imatge.gif" width="100%">
 </div>
 
 about me
